@@ -170,7 +170,7 @@ streamlit run streamlit_app.py
 
 ![Main UI](images/JOY.png)
 
-![Main UI](images/joy (2).png)
+![Main UI](images/joy2.png)
 
 ### Input Text:
 ```
@@ -197,23 +197,23 @@ static/joy/
 
 ![Main UI](images/ANGER.png)
 
-![Main UI](images/anger (2).png)
+![Main UI](images/anger2.png)
 
 ![Main UI](images/FEAR.png)
 
-![Main UI](images/fear (2).png)
+![Main UI](images/fear2.png)
 
 ![Main UI](images/LOVE.png)
 
-![Main UI](images/love (2).png)
+![Main UI](images/love2.png)
 
 ![Main UI](images/SAD.png)
 
-![Main UI](images/sad (2).png)
+![Main UI](images/sad2.png)
 
 ![Main UI](images/SURPRISE.png)
 
-![Main UI](images/surprise (2).png)
+![Main UI](images/surprise2.png)
 
 ---
 
